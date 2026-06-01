@@ -59,4 +59,3 @@ Sonuçlara göre Random Forest modeli daha yüksek performans göstermiştir.
 ## Geliştirici
 
 Sena Tatar
-
